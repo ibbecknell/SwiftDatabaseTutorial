@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF58EB60E0888866438A36B2282B210C41D5E9FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF58EB60E0888866438A36B2282B210C41D5E9FC" : 9223372036854775807,
+    "A990520CD0C2373E80F31C51952FD1FF2D2DC50F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AB7122DF-3E21-40A3-9596-BBD206E6FA1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF58EB60E0888866438A36B2282B210C41D5E9FC" : "iOSDatabaseTutorial\/",
+    "A990520CD0C2373E80F31C51952FD1FF2D2DC50F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftDatabaseTutorial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftDatabaseTutorial\/SwiftDatabaseTutorial.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ibbecknell\/SwiftDatabaseTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A990520CD0C2373E80F31C51952FD1FF2D2DC50F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ibbecknell\/SwiftDatabaseTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF58EB60E0888866438A36B2282B210C41D5E9FC"
+    }
+  ]
+}
